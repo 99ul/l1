@@ -17,6 +17,7 @@ public class Main {
                 break;
             }
         }
+        
         while (true) {
             System.out.println("Введите скорость машины №1: ");
             String input = scanner.nextLine().trim();
